@@ -1,5 +1,0 @@
-FROM dev-centos
-MAINTAINER "rallyDrew" <DEasley@rallydev.com>
-ENV container docker
-
-#CMD ["/usr/sbin/init"]
